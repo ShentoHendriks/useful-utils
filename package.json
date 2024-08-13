@@ -1,0 +1,26 @@
+{
+  "name": "@shentohendriks/useful-utils",
+  "version": "0.0.1",
+  "description": "Useful utilities, you will always use.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShentoHendriks/useful-utils.git"
+  },
+  "keywords": [
+    "useful",
+    "utils"
+  ],
+  "author": "Shento Hendriks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShentoHendriks/useful-utils/issues"
+  },
+  "homepage": "https://github.com/ShentoHendriks/useful-utils#readme",
+  "dependencies": {
+    "jsdoc": "^4.0.3"
+  }
+}
